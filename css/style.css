@@ -1,0 +1,88 @@
+@font-face {
+    font-family: Raleway_Bold;
+    src: url(../fonts/Raleway-Bold.ttf);
+   }
+@font-face {
+    font-family: Raleway_Regular;
+    src: url(../fonts/Raleway-Regular.ttf);
+   }
+@font-face {
+    font-family: Raleway_Tin;
+    src: url(../fonts/Raleway-Thin.ttf);
+   }
+@font-face {
+    font-family: LmRoman;
+    src: url(../fonts/lmromanslant10-regular.otf);
+   }
+.btn-default1{
+    font-family: Raleway_Regular;
+    background-color: transparent;
+}
+.home{
+    margin: 10vh;
+    height: 80vh;
+    background: url("../img/a_bg.png") no-repeat center;
+    background-size: contain;
+}
+.raleway_bold{
+    font-family: Raleway_Bold;
+}
+.raleway_tin{
+    font-family: Raleway_Tin;
+}
+.lmromans{
+    font-family: LmRoman;
+}
+.header_pos{
+    margin-top: 25vh;
+}
+.p{
+    margin: 10vh;
+    height: 80vh;
+    background: url("../img/p_bg.png") no-repeat center;
+    background-size: contain;
+}
+.p_text_pos{
+}
+.o{
+    height: 100vh;
+}
+.o_slider{
+    margin: 10vh;
+    height: 80vh;
+}
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+
+    margin: 10vh;
+    height: 80vh;
+
+  }
+.l{
+    margin: 10vh;
+    height: 80vh;
+    background: url("../img/l_bg.png") no-repeat center;
+    background-size: contain;
+
+}
+.l2{
+    font-family: Raleway_Regular;
+    margin: 10vh;
+    height: 80vh;
+    background: url("../img/l2_bg.png") no-repeat center;
+    background-size: contain;
+
+}
+.header_pos1{
+    margin-top: 15vh;
+}
+
+.header_pos2{
+    margin-top: 5vh;
+}
+.btn-default2{
+    width: 55vh;
+    background-color: black;
+    color: white;
+    border-radius: 0px;
+}
